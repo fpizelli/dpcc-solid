@@ -1,0 +1,17 @@
+{
+    "name": "admin/dpcc-solid", 
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "meu.nome", 
+            "email": "email@email.com" 
+        }
+    ],
+    "require": {}
+}
