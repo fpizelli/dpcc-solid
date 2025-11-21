@@ -13,5 +13,7 @@
             "email": "email@email.com" 
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.2"
+    }
 }
